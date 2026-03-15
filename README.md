@@ -7,6 +7,7 @@ I am a Backend developer
 - 📫 How to reach me: ismayilpaismayilov@gmail.com
 ------
 - ### 🚀 Tech Stack
+- C++
 - Java
 - Spring Boot
 - Hibernate / JPA
