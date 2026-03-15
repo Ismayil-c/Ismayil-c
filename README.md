@@ -5,16 +5,7 @@ I am a Backend developer
 
 - 🔭 I’m currently working on a private Java backend project, contributing to backend development, feature implementation, and code improvements.
 - 📫 How to reach me: ismayilpaismayilov@gmail.com
-------
-- ### 🚀 Tech Stack
-- C++
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST API
-- SQL / MYSQL
-- OOP
-- Data Structures & Algorithms
-- Git & GitHub
+
+
 
 
